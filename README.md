@@ -9,7 +9,13 @@ These are projects completed in the Codecademy jQuery course:
    In this project, I start with code and add some basic functionality to a dropdown menu using jQuery.
 
    [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/madison-square-market)
-2. Trivia Card
+
+2. [Trivia Card](https://gospino123.github.io/jQuery-projects/trivia-card/)
+
+   With starter code, I implemented jQuery effects to give the user the ability to read the clue, view an optional hint, and select their answer. I also altered the CSS a bit and added a reset button.
+
+   [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/trivia-card)
+
 3. Feedster
 4. Web Safe Font Preview
 5. Gameboard
