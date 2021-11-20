@@ -21,5 +21,12 @@ $(document).ready(() => {
         let post = $(event.currentTarget).val(); // Sets post equal to 'string' inside of textarea / .postText element
         let remaining = 140 - post.length;
         $('.characters').html(remaining); // Updates number of characters remaining and makes it visible in form after each keystroke
+
+        // Add red color class when you hit zero characters left and on
+        if (remaining <= 0) {
+            $('.wordcount').addClass('red');
+          } else {
+            $('.wordcount').removeClass('red');
+          }
       });
 }); 

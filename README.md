@@ -16,6 +16,11 @@ These are projects completed in the Codecademy jQuery course:
 
    [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/trivia-card)
 
-3. Feedster
+3. [Feedster](https://gospino123.github.io/jQuery-projects/feedster/)
+
+   Using jQuery, I added dynamic behavior to a comment posting website. This included navigation menu display animations, button hover effects and a live character count that warns when you have reached the allotted character limit. For the character count, I did use some JavaScript to assist in adding and removing classes based on more complex conditions.
+
+   [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/feedster)
+
 4. Web Safe Font Preview
 5. Gameboard
