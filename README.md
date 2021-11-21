@@ -22,5 +22,10 @@ These are projects completed in the Codecademy jQuery course:
 
    [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/feedster)
 
-4. Web Safe Font Preview
+4. [Web Safe Font Preview](https://gospino123.github.io/jQuery-projects/web-safe-font-preview/)
+
+   This simple project allows a user to test out different fonts by selecting form options and inputting a font size. It uses jQuery to automatically pass the changes to the preview section. I added minor adjustments as the starter code was not quite ADA friendly. However, the purpose is to use jQuery to update content for a user, and that functionality has been accomplished. 
+
+   [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/web-safe-font-preview)
+   
 5. Gameboard
