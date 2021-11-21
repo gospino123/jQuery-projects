@@ -7,11 +7,13 @@ body {
   
   .outer-container{
     width: 100%;
+    max-width: 850px;
+    margin: 24px auto;
   }
   h1 {
-    color: #FF6D04;
+    color: #d35800;
     font-size: 4rem;
-    font-weight: 300;
+    font-weight: 800;
     letter-spacing: 10px;
     line-height: 1rem;
     text-align: center;
@@ -33,7 +35,7 @@ body {
   }
   
   .preview {
-    align: center;
+    text-align: center;
     background: white;
     font-family: Helvetica;
     font-size: 12px;
@@ -41,7 +43,7 @@ body {
     margin: 0 auto 0 auto;
   
     min-height: 150px;
-    padding: 30;
+    padding: 30px;
     word-wrap: break-word;
   }
   
@@ -78,6 +80,7 @@ body {
     height: 100%;
     float: right;
     text-align: center;
+    padding-left: 16px;
   }
   
   input {
@@ -89,4 +92,5 @@ body {
   }
   
   #weight {
+      /* Keep this in mind */
   }
