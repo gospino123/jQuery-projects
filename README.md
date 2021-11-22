@@ -28,4 +28,8 @@ These are projects completed in the Codecademy jQuery course:
 
    [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/web-safe-font-preview)
    
-5. Gameboard
+5. [Gameboard](https://gospino123.github.io/jQuery-projects/gameboard/)
+
+   This project focused on using jQuery for DOM manipulation. As I'd already learned this, it was quick and simple. The lesson was intended to be a wrap-up of DOM jQuery methods.
+
+   [[Source Code]](https://github.com/gospino123/jQuery-projects/tree/main/gameboard)
